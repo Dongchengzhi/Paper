@@ -1,7 +1,7 @@
 - [Paper](#paper)
     + [Alphafold2](#alphafold2)
     + [Bioinformatics](#bioinformatics)
-    + + [Genomic imprinting](#genomic-imprinting)
+    + [Genomic imprinting](#genomic-imprinting)
     + [RNA Splicing](#rna-splicing)
     + [Nucleosome](#nucleosome)
 
