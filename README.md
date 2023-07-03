@@ -1,11 +1,15 @@
 - [Paper](#paper)
     + [Alphafold2](#alphafold2)
+    + [Bioinformatics](#bioinformatics)
     + [RNA Splicing](#rna-splicing)
     + [Nucleosome](#nucleosome)
 
 ### Alphafold2
 
 Modeling conformational states of proteins with AlphaFold.
+
+### Bioinformatics
+Badia-i-Mompel, P., Wessels, L., Müller-Dott, S., Trimbour, R., Ramirez Flores, R. O., Argelaguet, R., & Saez-Rodriguez, J. (2023). Gene regulatory network inference in the era of single-cell multi-omics. Nature Reviews Genetics, 1-16.
 
 ### RNA Splicing
 
